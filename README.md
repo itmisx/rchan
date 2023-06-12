@@ -1,2 +1,3 @@
 # rchan
-基于redis实现类golang chan的分布式channel
+
+基于 redis 实现的分布式 channel
